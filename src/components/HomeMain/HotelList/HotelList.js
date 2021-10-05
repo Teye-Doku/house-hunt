@@ -5,7 +5,7 @@ import SingleHotel from './SingleHotel';
 const hotels = [
     {
         id: 1,
-        name: 'Washington Avenue',
+        name: 'American House',
         place: 'Nasirabad H/S, Chattogram',
         bed: '3 Bedrooms',
         bathroom: '2 Bathroom',
@@ -23,7 +23,7 @@ const hotels = [
     },
     {
         id: 3,
-        name: 'Washington Avenue',
+        name: 'American House',
         place: 'Nasirabad H/S, Chattogram',
         bed: '3 Bedrooms',
         bathroom: '2 Bathroom',
@@ -41,7 +41,7 @@ const hotels = [
     },
     {
         id: 5,
-        name: 'Washington Avenue',
+        name: 'American House',
         place: 'Nasirabad H/S, Chattogram',
         bed: '3 Bedrooms',
         bathroom: '2 Bathroom',

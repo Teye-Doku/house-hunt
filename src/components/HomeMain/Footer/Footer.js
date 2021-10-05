@@ -12,7 +12,7 @@ const Footer = () => {
                             <div className="col-md-5">
                                 <div className="d-flex img_top">
                                     <img src={locations} alt="" className="img-fluid"/>
-                                    <h4> H#340 (4th Floor), Road #24, <br/> New DOHS, Mohakhali, Dhaka, Bangladesh <br/> Phone: 018XXXXXXXX <br/> E-mail: info@company.com</h4>
+                                    <h4> Thirdes Road <br/> Tema,Community 12,Accra,Ghana <br/> Phone: 018XXXXXXXX <br/> E-mail: info@jaskosdata.com</h4>
                                 </div>
                             </div>
                             <div className="col-md-7 px-0">
