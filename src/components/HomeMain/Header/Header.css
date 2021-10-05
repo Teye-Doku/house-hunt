@@ -1,0 +1,37 @@
+.rent-header{
+    background: url(../../../images/header-bg.png) no-repeat scroll center center;
+    background-size: cover;
+    padding: 210px 0px;
+    padding-bottom: 180px;
+}
+.rent-header.rent_home{
+    padding-bottom: 65px;
+}
+.rent-header h1{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+.rent-header .form-control{
+    max-width: 75%;
+    min-height: 50px;
+    margin-right: 20px;
+}
+.btn.default-btn{
+    background: #275A53;
+    border-radius: 5px;
+    border: 1px solid #275A53;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    padding: 13px 30px;
+}
+.btn.default-btn:hover{
+    border: 1px solid #275A53;
+    background: #FFFFFF;
+    color: #275A53 !important;
+}

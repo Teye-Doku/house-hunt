@@ -1,0 +1,32 @@
+.footer-wrapper{
+    padding: 58px 0px;
+    background: #275A53;
+}
+.footer-wrapper h4{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.0015em;
+    color: #FFFFFF;
+}
+.img_top img{
+    height: fit-content;
+    margin-right: 15px;
+}
+.nav_item li{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 34px;
+    letter-spacing: 0.0015em;
+    color: #FFFFFF;
+}
+.nav_item li:nth-child(1){
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 34px;
+    letter-spacing: 0.0015em;
+    margin-bottom: 14px;
+}
+.extra{
+    line-height: 28px !important;
+}
