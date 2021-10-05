@@ -6,7 +6,7 @@ const hotels = [
     {
         id: 1,
         name: 'American House',
-        place: 'Nasirabad H/S, Chattogram',
+        place: 'East Legon,Accra',
         bed: '3 Bedrooms',
         bathroom: '2 Bathroom',
         price: '$194',
@@ -14,8 +14,8 @@ const hotels = [
     },
     {
         id: 2,
-        name: 'Washington Avenue',
-        place: 'Nasirabad H/S, Chattogram',
+        name: 'AU Village',
+        place: 'Cantoments,Accra',
         bed: '3 Bedrooms',
         bathroom: '2 Bathroom',
         price: '$194',
@@ -24,7 +24,7 @@ const hotels = [
     {
         id: 3,
         name: 'American House',
-        place: 'Nasirabad H/S, Chattogram',
+        place: 'Tantra Hill',
         bed: '3 Bedrooms',
         bathroom: '2 Bathroom',
         price: '$194',
@@ -32,8 +32,8 @@ const hotels = [
     },
     {
         id: 4,
-        name: 'Washington Avenue',
-        place: 'Nasirabad H/S, Chattogram',
+        name: '4 bedrooms townhouse',
+        place: 'Labadi,Accra',
         bed: '3 Bedrooms',
         bathroom: '2 Bathroom',
         price: '$194',
@@ -41,8 +41,8 @@ const hotels = [
     },
     {
         id: 5,
-        name: 'American House',
-        place: 'Nasirabad H/S, Chattogram',
+        name: 'Classic Hub',
+        place: 'Haatso,Accra',
         bed: '3 Bedrooms',
         bathroom: '2 Bathroom',
         price: '$194',
@@ -50,8 +50,8 @@ const hotels = [
     },
     {
         id: 6,
-        name: 'Washington Avenue',
-        place: 'Nasirabad H/S, Chattogram',
+        name: 'Takroadi House',
+        place: 'Tema,Community 4',
         bed: '3 Bedrooms',
         bathroom: '2 Bathroom',
         price: '$194',
