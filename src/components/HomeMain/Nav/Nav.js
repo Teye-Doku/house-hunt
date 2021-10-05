@@ -27,10 +27,10 @@ const Nav = () => {
                                     <a className="nav-link" href="#0">Service</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#0">Concerns</a>
+                                    <a className="nav-link" href="#0">Offices</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#0">Event</a>
+                                    <a className="nav-link" href="#0">Stores</a>
                                 </li>
                                 <li className="nav-item">
                                     <a className="nav-link" href="#0">Contact</a>
