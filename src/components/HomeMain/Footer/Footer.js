@@ -40,7 +40,7 @@ const Footer = () => {
                                     <div className="col-md-4">
                                         <ul className="list-unstyled nav_item">
                                             <li>About us</li>
-                                            <li className="extra">We are the top real estate agency in Sydney, with agents available to answer any question 24/7.</li>
+                                            <li className="extra">We are the top real estate agency in Ghana, with agents available to answer any question 24/7.</li>
                                         </ul>
                                         {/* <div className="footer-social">
                                         </div> */}
